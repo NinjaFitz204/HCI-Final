@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Zackary Fitzgibbon
+## Final HCI Project
 
 You can use the [editor on GitHub](https://github.com/NinjaFitz204/HCI-Final/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
