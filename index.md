@@ -3,6 +3,7 @@
 
 # Design Process
 
+
 ### Design for Others
 
 [link for Medium page](https://medium.com/@zack7699/technocopia-redesigned-by-jeremy-hoffman-myles-spencer-and-zackary-fitzgibbon-ee551ce40955)
