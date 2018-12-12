@@ -1,8 +1,7 @@
+## HCI Final
 ## Zackary Fitzgibbon
 
-You use the [editor on GitHub](https://github.com/NinjaFitz204/HCI-Final/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Design Process
 
 ### Design for Others
 
@@ -13,6 +12,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Design for Tension
 
 [link for Medium page](https://medium.com/@zack7699/design-for-tension-by-zackary-fitzgibbon-6ef2e4350290)
-### Design for Wellbeing
+### Design for Well-being
 
 [link for Medium page](https://medium.com/@zack7699/design-for-well-being-by-zackary-fitzgibbon-d2269bcb5311)
