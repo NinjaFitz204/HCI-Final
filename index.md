@@ -2,7 +2,7 @@
 # Zackary Fitzgibbon
 
 ## Design Process
-talk about design process
+talk about design processs
 
 ### Design for Others
 talk about this design
