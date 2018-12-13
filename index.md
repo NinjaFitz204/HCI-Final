@@ -1,7 +1,7 @@
 ## HCI Final By: Zackary Fitzgibbon
 
 # Design Process
-Through out this whole class we have learned many different aspects of good design and different tools to use to create comprehensible designs. 
+Through out this whole class we have learned many different aspects of good design and different tools to use to create comprehensible designs. The first design tool we learned was CRAP, or Contrast, Repetition, Alignment, and Proximity. 
 ## Step 1
 
 ## Step 2
