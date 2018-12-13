@@ -1,7 +1,16 @@
-# HCI Final By: Zackary Fitzgibbon
+## HCI Final By: Zackary Fitzgibbon
 
-## Design Process
+# Design Process
 Through out this whole class we have learned many different aspects of good design and different tools to use to create comprehensible designs. 
+## Step 1
+
+## Step 2
+
+## Step 3
+
+## Step 4
+
+## Step 5
 
 ### Design for Others
 talk about this design
