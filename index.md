@@ -2,7 +2,7 @@
 # Zackary Fitzgibbon
 
 ## Design Process
-talk about design processs
+Through out this whole class we have learned many different aspects of good design and different tools to use to create comprehensible designs. 
 
 ### Design for Others
 talk about this design
