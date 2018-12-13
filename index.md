@@ -4,11 +4,11 @@
 # Design Process
 Through out this whole class we have learned many different aspects of good design and different tools to use to create comprehensible designs. The first design tool we learned was CRAP, or Contrast, Repetition, Alignment, and Proximity. Using just this acronym and no other tools you can create very good looking designs but in order for them to be comprehensible you need other knowledge. One thing we learned that helps make information more comprehensible is the use of color. Color is a very useful tool but can be harmful if used wrong. The brain has a hard time recognizing different 
 ## -Step 1
-hello fucker
+did this work?
 ## -Step 2
-h
+
 ## -Step 3
-what the actual fuck
+
 ## -Step 4
 
 ## -Step 5
