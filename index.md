@@ -20,15 +20,11 @@ Gather feedback from the protypes and create the finished product.
 
 # Projects:    
 Here are some of the projects that I made during this class.
-### Design for Others
-talk about this design
-[link for Medium page](https://medium.com/@zack7699/technocopia-redesigned-by-jeremy-hoffman-myles-spencer-and-zackary-fitzgibbon-ee551ce40955)
-### Design for Understanding
-talk about this design
-[link for Medium page](https://medium.com/@zack7699/design-for-understanding-by-zackary-fitzgibbon-ad8d6d69a84)
-### Design for Tension
-talk about this design
-[link for Medium page](https://medium.com/@zack7699/design-for-tension-by-zackary-fitzgibbon-6ef2e4350290)
-### Design for Well-being
-talk about this design
-[link for Medium page](https://medium.com/@zack7699/design-for-well-being-by-zackary-fitzgibbon-d2269bcb5311)
+### [Design for Others](https://medium.com/@zack7699/technocopia-redesigned-by-jeremy-hoffman-myles-spencer-and-zackary-fitzgibbon-ee551ce40955)
+
+### [Design for Understanding](https://medium.com/@zack7699/design-for-understanding-by-zackary-fitzgibbon-ad8d6d69a84)
+
+### [Design for Tension](https://medium.com/@zack7699/design-for-tension-by-zackary-fitzgibbon-6ef2e4350290)
+
+### [Design for Well-being](https://medium.com/@zack7699/design-for-well-being-by-zackary-fitzgibbon-d2269bcb5311)
+
