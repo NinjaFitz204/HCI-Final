@@ -19,6 +19,7 @@ Create a prototype or multiple prototypes based on how many designs are left.
 Gather feedback from the protypes and create the finished product.
 
 # Projects:    
+Here are some of the projects that I made during this class.
 ### Design for Others
 talk about this design
 [link for Medium page](https://medium.com/@zack7699/technocopia-redesigned-by-jeremy-hoffman-myles-spencer-and-zackary-fitzgibbon-ee551ce40955)
