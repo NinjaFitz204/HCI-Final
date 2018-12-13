@@ -1,5 +1,5 @@
 ## HCI Final By: Zackary Fitzgibbon
-##
+## 
 
 # Design Process
 Through out this whole class we have learned many different aspects of good design and different tools to use to create comprehensible designs. The first design tool we learned was CRAP, or Contrast, Repetition, Alignment, and Proximity. 
@@ -13,7 +13,7 @@ Through out this whole class we have learned many different aspects of good desi
 
 ## -Step 5
 
-#
+#    
 ### Design for Others
 talk about this design
 [link for Medium page](https://medium.com/@zack7699/technocopia-redesigned-by-jeremy-hoffman-myles-spencer-and-zackary-fitzgibbon-ee551ce40955)
