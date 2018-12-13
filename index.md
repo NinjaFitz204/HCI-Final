@@ -3,15 +3,15 @@
 
 # Design Process
 Through out this whole class we have learned many different aspects of good design and different tools to use to create comprehensible designs. The first design tool we learned was CRAP, or Contrast, Repetition, Alignment, and Proximity. 
-## Step 1
+## -Step 1
 
-## Step 2
+## -Step 2
 
-## Step 3
+## -Step 3
 
-## Step 4
+## -Step 4
 
-## Step 5
+## -Step 5
 
 #
 ### Design for Others
