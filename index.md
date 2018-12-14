@@ -19,7 +19,7 @@ Create a prototype or multiple prototypes based on how many designs are left.
 Gather feedback from the protypes and create the finished product.
 
 # Projects:    
-Here are some of the projects that I made during this class.
+Here are some of the projects that I made during this class using the above mentioned design tools and while developing my 5 step method.
 ### [Design for Others](https://medium.com/@zack7699/technocopia-redesigned-by-jeremy-hoffman-myles-spencer-and-zackary-fitzgibbon-ee551ce40955)
 
 ### [Design for Understanding](https://medium.com/@zack7699/design-for-understanding-by-zackary-fitzgibbon-ad8d6d69a84)
